@@ -1,10 +1,10 @@
-👋 Hi, I’m Rodrigo Martínez Alonso, a passionate ML/AI enthusiast from Spain.
+👋 Hi, I’m Rodrigo Martínez Alonso, a passionate ML/DL enthusiast from Spain.
 
-🖥️ I have over a year of experience working as a Data Scientist at Accenture.
+🖥️ I have over two years experience working as a Data Scientist.
 
-👀 I’m mainly interested in genAI, Computer Vision, and sports-related projects.
+👀 I’m mainly interested in NLP and sports-related projects.
 
-📫 You can reach me on LinkedIn: https://www.linkedin.com/in/rodrigo-mart%C3%ADnez-alonso-86bb21246/
+📫 You can reach me on LinkedIn: https://www.linkedin.com/in/rodrigo-mart/
 
 😄 Pronouns: He/His
 
