@@ -1,9 +1,11 @@
-👋 Hi, I’m Rodrigo Martínez Alonso, a passionate ML/DL enthusiast from Spain.
+👋 Hi, I’m Rodrigo Martínez Alonso Senior Data Scientist | Sports Analytics Specialist
 
-🖥️ I have over two years experience working as a Data Scientist.
+🖥️ Professional Experience I have over 3 years of experience building ML models and data pipelines.
 
-👀 I’m mainly interested in data science sports-related projects.
+⚽ Sports Analytics Focus I’m passionate about applying Data Science to sports.
 
-📫 You can reach me on LinkedIn: https://www.linkedin.com/in/rodrigo-mart/
+📫 Let's Connect:
 
-😄 Pronouns: He/His
+  - https://www.linkedin.com/in/rodrigo-mart/
+  
+  - romaralo2114@gmail.com
